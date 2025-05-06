@@ -24,7 +24,7 @@ const HeroFive = () => {
             </div>
             <div className="col-lg-12">
               <div className="hero-thumb5-1">
-                <img src="assets/img/hero/banner-bg.jpg" alt="img" />
+                <img src="assets/img/service/service-5-6.jpg" alt="img" />
               </div>
             </div>
           </div>

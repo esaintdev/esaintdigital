@@ -12,8 +12,6 @@ import PricingTwo from "../components/PricingTwo";
 import CTAThree from "../components/CTAThree";
 import TeamFour from "../components/TeamFour";
 import FaqThree from "../components/FaqThree";
-import BlogFive from "../components/BlogFive";
-import MarqueeFour from "../components/MarqueeFour";
 import FooterFive from "../components/FooterFive";
 
 
@@ -40,13 +38,13 @@ const HomeFive = () => {
       <HeroFive />
 
       {/* ServiceFive */}
-      {/* <ServiceFive /> */}
+      <ServiceFive />
 
       {/* ClientThree */}
-      {/* <ClientThree /> */}
+      <ClientThree />
 
       {/* AboutFive */}
-      {/* <AboutFive /> */}
+      <AboutFive />
 
       {/* ProcessTwo */}
       {/* <ProcessTwo /> */}
@@ -55,25 +53,20 @@ const HomeFive = () => {
       {/* <TestimonialFour /> */}
 
       {/* PricingTwo */}
-      {/* <PricingTwo /> */}
+      <PricingTwo />
 
       {/* CTAThree */}
-      {/* <CTAThree /> */}
+      <CTAThree />
 
       {/* TeamFour */}
       {/* <TeamFour /> */}
 
       {/* FaqThree */}
       {/* <FaqThree /> */}
-
-      {/* BlogFive */}
-      {/* <BlogFive /> */}
-
-      {/* MarqueeFour */}
-      {/* <MarqueeFour /> */}
+    
 
       {/* FooterFive */}
-      {/* <FooterFive /> */}
+      <FooterFive />
 
 
 

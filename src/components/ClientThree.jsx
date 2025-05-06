@@ -8,9 +8,9 @@ const ClientThree = () => {
         infinite: true,
         slidesToShow: 5,
         slidesToScroll: 1,
-        autoplay: false,
+        autoplay: true,
         speed: 500,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 1500,
         cssEase: "linear",
 
         responsive: [

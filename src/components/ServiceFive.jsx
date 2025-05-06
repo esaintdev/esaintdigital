@@ -15,7 +15,7 @@ const ServiceFive = () => {
                                     Our Services
                                 </span>
                                 <h2 className="sec-title style2 text-white">
-                                    Your Business Goals with the Confidence{" "}
+                                Creative Solutions Tailored to Your Vision{" "}
                                 </h2>
                             </div>
                         </div>
@@ -30,10 +30,10 @@ const ServiceFive = () => {
                                 </div>
                                 <div className="service-card_content">
                                     <h4 className="service-card_title">
-                                        <Link to="/service-details">Business Growth Catalyst</Link>
+                                        <Link to="/service-details">Brand Identity</Link>
                                     </h4>
                                     <p className="service-card_text">
-                                        Use receiving acco growin number of currencies and get paid lik
+                                    We create cohesive visual identities that define your brand’s personality
                                     </p>
                                 </div>
                             </div>
@@ -45,10 +45,10 @@ const ServiceFive = () => {
                                 </div>
                                 <div className="service-card_content">
                                     <h4 className="service-card_title">
-                                        <Link to="/service-details">Profitability Maximizers</Link>
+                                        <Link to="/service-details">Club Posters</Link>
                                     </h4>
                                     <p className="service-card_text">
-                                        Use receiving acco growin number of currencies and get paid lik
+                                    Bold, high-energy visuals that capture the vibe of your event
                                     </p>
                                 </div>
                             </div>
@@ -60,10 +60,10 @@ const ServiceFive = () => {
                                 </div>
                                 <div className="service-card_content">
                                     <h4 className="service-card_title">
-                                        <Link to="/service-details">Efficiency Experts</Link>
+                                        <Link to="/service-details">Social Media Graphics</Link>
                                     </h4>
                                     <p className="service-card_text">
-                                        Use receiving acco growin number of currencies and get paid lik
+                                    Custom-designed visuals tailored for Instagram, Facebook, X, and more
                                     </p>
                                 </div>
                             </div>

@@ -6,7 +6,7 @@ const ContactInner = () => {
         <>
             <div className="map-sec">
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2s!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd"
+                    src="https://maps.google.com/maps?width=858&amp;height=424&amp;hl=en&amp;q=15 Ekpenyong Street Uyo&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                     allowFullScreen=""
                     loading="lazy"
                     title='Bizmaster'
@@ -24,8 +24,7 @@ const ContactInner = () => {
                                     <div className="contact-info_details">
                                         <h6 className="contact-info_title">Phone</h6>
                                         <p className="contact-info_text">
-                                            <Link to="/tel:6295550129">(629) 555-0129</Link>{" "}
-                                            <Link to="/tel:01254693326">01254693326</Link>
+                                            <Link to="/tel:+2348121855275">+234 8121 855 275</Link>{" "}
                                         </p>
                                     </div>
                                 </div>
@@ -38,7 +37,7 @@ const ContactInner = () => {
                                     <div className="contact-info_details">
                                         <h6 className="contact-info_title">Location</h6>
                                         <p className="contact-info_text">
-                                            4517 Washington Av Kentucky 39495
+                                            15, Ekpenyong Street, Uyo, Nigeria
                                         </p>
                                     </div>
                                 </div>
@@ -51,7 +50,7 @@ const ContactInner = () => {
                                     <div className="contact-info_details">
                                         <h6 className="contact-info_title">Email</h6>
                                         <p className="contact-info_text">
-                                            <Link to="/mailto:nafiz125432gmail.com">nafiz125432gmail.com</Link>
+                                            <Link to="/mailto:esaint.designer@gmail.com">esaint.designer@gmail.com</Link>
                                         </p>
                                     </div>
                                 </div>
