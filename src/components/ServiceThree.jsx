@@ -78,7 +78,7 @@ const ServiceThree = () => {
                     className="global-btn style-border"
                   >
                     Read More{" "}
-                    <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                    <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                   </Link>
                 </div>
               </div>
@@ -101,7 +101,7 @@ const ServiceThree = () => {
                     className="global-btn style-border"
                   >
                     Read More
-                    <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                    <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                   </Link>
                 </div>
               </div>
@@ -124,7 +124,7 @@ const ServiceThree = () => {
                     className="global-btn style-border"
                   >
                     Read More
-                    <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                    <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                   </Link>
                 </div>
               </div>
@@ -147,7 +147,7 @@ const ServiceThree = () => {
                     className="global-btn style-border"
                   >
                     Read More
-                    <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                    <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                   </Link>
                 </div>
               </div>
@@ -170,7 +170,7 @@ const ServiceThree = () => {
                     className="global-btn style-border"
                   >
                     Read More
-                    <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                    <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                   </Link>
                 </div>
               </div>

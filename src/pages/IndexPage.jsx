@@ -12,11 +12,11 @@ const IndexPage = () => {
   const cssCode = `
   
   /*
-Theme Name: Bizmaster
-Theme URI: https://wowtheme7.com/bizmaster
+Theme Name: Gohub
+Theme URI: https://wowtheme7.com/Gohub
 Author: wowtheme7
 Author URI: https://wowtheme7.com 
-Description: Bizmaster - Business Consulting React Js Template
+Description: Gohub - Business Consulting React Js Template
 Version: 2.0.1
 */
 
@@ -1144,7 +1144,7 @@ h1,h2,h3,h4,h5,h6 {
           <i className="fa fa-cart-arrow-down" />
           Add To Cart
         </a>
-        <a className="btn btn-white" href="https://bizmaster-react.wowtheme7.com//">
+        <a className="btn btn-white" href="https://Gohub-react.wowtheme7.com//">
           <i className="fa fa-cog" />
           Demo Link
         </a>
@@ -1159,10 +1159,10 @@ h1,h2,h3,h4,h5,h6 {
                 alt="logo"
               />
               <h1 className="mt-4">
-                Bizmaster - Business Consulting React Js Template
+                Gohub - Business Consulting React Js Template
               </h1>
               <p className="me-5 mb-5">
-                Bizmaster is Business Consulting React Js Template built for an array
+                Gohub is Business Consulting React Js Template built for an array
                 of services with a number of auto service and car repair
                 institutions in mind.
               </p>
@@ -1318,10 +1318,10 @@ h1,h2,h3,h4,h5,h6 {
                 <div className="item-title">Home Business </div>
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com//">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com//">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com//">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com//">
                   RTL Demo
                 </Link>
               </div>
@@ -1341,10 +1341,10 @@ h1,h2,h3,h4,h5,h6 {
                 <div className="item-title">Home Consulting</div>
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/home-2">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/home-2">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/home-2">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/home-2">
                   RTL Demo
                 </Link>
               </div>
@@ -1364,10 +1364,10 @@ h1,h2,h3,h4,h5,h6 {
                 <div className="item-title">Home Corporate</div>
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/home-3">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/home-3">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/home-3">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/home-3">
                   RTL Demo
                 </Link>
               </div>
@@ -1387,10 +1387,10 @@ h1,h2,h3,h4,h5,h6 {
                 <div className="item-title">Home Startup Business </div>
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/home-4">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/home-4">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/home-4">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/home-4">
                   RTL Demo
                 </Link>
               </div>
@@ -1410,10 +1410,10 @@ h1,h2,h3,h4,h5,h6 {
                 <div className="item-title">Home Business Agency </div>
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/home-5">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/home-5">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/home-5">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/home-5">
                   RTL Demo
                 </Link>
               </div>
@@ -1450,10 +1450,10 @@ h1,h2,h3,h4,h5,h6 {
                 About Page
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/about">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/about">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/about">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/about">
                   RTL Demo
                 </Link>
               </div>
@@ -1472,10 +1472,10 @@ h1,h2,h3,h4,h5,h6 {
                 Service Page
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/service">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/service">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/service">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/service">
                   RTL Demo
                 </Link>
               </div>
@@ -1494,10 +1494,10 @@ h1,h2,h3,h4,h5,h6 {
                 Service Details
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/service-details">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/service-details">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/service-details">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/service-details">
                   RTL Demo
                 </Link>
               </div>
@@ -1516,10 +1516,10 @@ h1,h2,h3,h4,h5,h6 {
                 Project Page
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/project">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/project">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/project">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/project">
                   RTL Demo
                 </Link>
               </div>
@@ -1538,10 +1538,10 @@ h1,h2,h3,h4,h5,h6 {
                 Project Details
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/project-details">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/project-details">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/project-details">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/project-details">
                   RTL Demo
                 </Link>
               </div>
@@ -1560,10 +1560,10 @@ h1,h2,h3,h4,h5,h6 {
                 Team Page
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/team">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/team">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/team">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/team">
                   RTL Demo
                 </Link>
               </div>
@@ -1582,10 +1582,10 @@ h1,h2,h3,h4,h5,h6 {
                 Team Details
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/team-details">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/team-details">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/team-details">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/team-details">
                   RTL Demo
                 </Link>
               </div>
@@ -1604,10 +1604,10 @@ h1,h2,h3,h4,h5,h6 {
                 Blog Page
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/blog">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/blog">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/blog">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/blog">
                   RTL Demo
                 </Link>
               </div>
@@ -1626,10 +1626,10 @@ h1,h2,h3,h4,h5,h6 {
                 Blog Details
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/blog-details">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/blog-details">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/blog-details">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/blog-details">
                   RTL Demo
                 </Link>
               </div>
@@ -1648,10 +1648,10 @@ h1,h2,h3,h4,h5,h6 {
                 Pricing Page
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/pricing">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/pricing">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/pricing">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/pricing">
                   RTL Demo
                 </Link>
               </div>
@@ -1670,10 +1670,10 @@ h1,h2,h3,h4,h5,h6 {
                 Contact Page
               </div>
               <div className="btn-group">
-                <Link className="btn btn-base" to="https://bizmaster-react.wowtheme7.com/contact">
+                <Link className="btn btn-base" to="https://Gohub-react.wowtheme7.com/contact">
                   Live Demo
                 </Link>
-                <Link className="btn btn-base" to="https://bizmaster-react-rtl.wowtheme7.com/contact">
+                <Link className="btn btn-base" to="https://Gohub-react-rtl.wowtheme7.com/contact">
                   RTL Demo
                 </Link>
               </div>

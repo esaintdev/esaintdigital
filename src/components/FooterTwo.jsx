@@ -14,7 +14,7 @@ const FooterTwo = () => {
               <div className="widget footer-widget widget-about">
                 <div className="about-logo">
                   <Link to="/">
-                    <img src="assets/img/logo.svg" alt="Bizmaster" />
+                    <img src="assets/img/logo.svg" alt="Gohub" />
                   </Link>
                 </div>
                 <p className="footer-text mb-30">
@@ -104,22 +104,22 @@ const FooterTwo = () => {
                 <ul className="side-instagram list-wrap">
                   <li>
                     <Link to="#">
-                      <img src="assets/img/gallery/1.jpg" alt="Bizmaster" />
+                      <img src="assets/img/gallery/1.jpg" alt="Gohub" />
                     </Link>
                   </li>
                   <li>
                     <Link to="#">
-                      <img src="assets/img/gallery/2.jpg" alt="Bizmaster" />
+                      <img src="assets/img/gallery/2.jpg" alt="Gohub" />
                     </Link>
                   </li>
                   <li>
                     <Link to="#">
-                      <img src="assets/img/gallery/3.jpg" alt="Bizmaster" />
+                      <img src="assets/img/gallery/3.jpg" alt="Gohub" />
                     </Link>
                   </li>
                   <li>
                     <Link to="#">
-                      <img src="assets/img/gallery/4.jpg" alt="Bizmaster" />
+                      <img src="assets/img/gallery/4.jpg" alt="Gohub" />
                     </Link>
                   </li>
                 </ul>

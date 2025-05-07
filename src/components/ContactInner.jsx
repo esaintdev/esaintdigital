@@ -9,7 +9,7 @@ const ContactInner = () => {
                     src="https://maps.google.com/maps?width=858&amp;height=424&amp;hl=en&amp;q=15 Ekpenyong Street Uyo&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
                     allowFullScreen=""
                     loading="lazy"
-                    title='Bizmaster'
+                    title='Gohub'
                 />
             </div>
             <div className="contact-area space">
@@ -138,7 +138,7 @@ const ContactInner = () => {
                                     <div className="col-12 form-group mb-0">
                                         <button className="global-btn w-100">
                                             Send Now
-                                            <img src="assets/img/icon/right-icon.svg" alt="Bizmaster" />
+                                            <img src="assets/img/icon/right-icon.svg" alt="Gohub" />
                                         </button>
                                     </div>
                                 </div>

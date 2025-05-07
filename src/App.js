@@ -19,6 +19,9 @@ import Team from "./pages/Team";
 import TeamDetails from "./pages/TeamDetails";
 import Contact from "./pages/Contact";
 import Error from "./pages/Error";
+import Products from "./pages/Products";
+import ProductForm from "./components/ProductForm";
+import EditProductForm from "./components/EditProductForm";
 
 const App = () => {
   return (
@@ -31,6 +34,10 @@ const App = () => {
           <Route exact path="/home-2" element={<HomeTwo />} />
           <Route exact path="/home-3" element={<HomeThree />} />
           <Route exact path="/home-4" element={<HomeFour />} />
+          <Route exact path="/products" element={<Products />} />
+          <Route exact path="/product-form" element={<ProductForm />} />
+          <Route exact path="/products/edit/:id" element={<EditProductForm />} />
+          <Route exact path="/project-details/:id" element={<ProjectDetails />} />
           <Route exact path="/" element={<HomeFive />} />
           <Route exact path="/about" element={<About />} />
           <Route exact path="/service" element={<Service />} />

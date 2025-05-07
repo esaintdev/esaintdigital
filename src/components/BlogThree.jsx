@@ -85,7 +85,7 @@ const BlogThree = () => {
             <div className="px-3">
               <div className="blog-card style2">
                 <div className="blog-img">
-                  <img src="assets/img/blog/blog_s1_1.png" alt="Bizmaster" />
+                  <img src="assets/img/blog/blog_s1_1.png" alt="Gohub" />
                 </div>
                 <div className="blog-content">
                   <div className="blog-meta">
@@ -115,7 +115,7 @@ const BlogThree = () => {
             <div className="px-3">
               <div className="blog-card style2">
                 <div className="blog-img">
-                  <img src="assets/img/blog/blog_s1_2.png" alt="Bizmaster" />
+                  <img src="assets/img/blog/blog_s1_2.png" alt="Gohub" />
                 </div>
                 <div className="blog-content">
                   <div className="blog-meta">
@@ -145,7 +145,7 @@ const BlogThree = () => {
             <div className="px-3">
               <div className="blog-card style2">
                 <div className="blog-img">
-                  <img src="assets/img/blog/blog_s1_3.png" alt="Bizmaster" />
+                  <img src="assets/img/blog/blog_s1_3.png" alt="Gohub" />
                 </div>
                 <div className="blog-content">
                   <div className="blog-meta">
@@ -175,7 +175,7 @@ const BlogThree = () => {
             <div className="px-3">
               <div className="blog-card style2">
                 <div className="blog-img">
-                  <img src="assets/img/blog/blog_s1_1.png" alt="Bizmaster" />
+                  <img src="assets/img/blog/blog_s1_1.png" alt="Gohub" />
                 </div>
                 <div className="blog-content">
                   <div className="blog-meta">

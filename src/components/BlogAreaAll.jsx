@@ -9,7 +9,7 @@ const BlogAreaAll = () => {
                     <div className="col-xxl-8 col-lg-7">
                         <div className="blog-single-card">
                             <div className="blog-thumb">
-                                <img src="assets/img/blog/blog_s2_1.png" alt="Bizmaster" />
+                                <img src="assets/img/blog/blog_s2_1.png" alt="Gohub" />
                                 <div className="blog-date">
                                     <Link to="/blog">
                                         <span>31</span>May
@@ -43,13 +43,13 @@ const BlogAreaAll = () => {
                                 </p>
                                 <Link to="/blog-details" className="global-btn style-border2">
                                     {" "}
-                                    Read More <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                                    Read More <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                                 </Link>
                             </div>
                         </div>
                         <div className="blog-single-card">
                             <div className="blog-thumb">
-                                <img src="assets/img/blog/blog_s2_2.png" alt="Bizmaster" />
+                                <img src="assets/img/blog/blog_s2_2.png" alt="Gohub" />
                                 <div className="blog-date">
                                     <Link to="/blog">
                                         <span>31</span>May
@@ -83,13 +83,13 @@ const BlogAreaAll = () => {
                                 </p>
                                 <Link to="/blog-details" className="global-btn style-border2">
                                     {" "}
-                                    Read More <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                                    Read More <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                                 </Link>
                             </div>
                         </div>
                         <div className="blog-single-card">
                             <div className="blog-thumb">
-                                <img src="assets/img/blog/blog_s2_3.png" alt="Bizmaster" />
+                                <img src="assets/img/blog/blog_s2_3.png" alt="Gohub" />
                                 <div className="blog-date">
                                     <Link to="/blog">
                                         <span>31</span>May
@@ -123,7 +123,7 @@ const BlogAreaAll = () => {
                                 </p>
                                 <Link to="/blog-details" className="global-btn style-border2">
                                     {" "}
-                                    Read More <img src="assets/img/icon/right-icon2.svg" alt="Bizmaster" />
+                                    Read More <img src="assets/img/icon/right-icon2.svg" alt="Gohub" />
                                 </Link>
                             </div>
                         </div>
@@ -161,25 +161,25 @@ const BlogAreaAll = () => {
                                     <li>
                                         <Link to="/blog">
                                             Business Growth Catalyst{" "}
-                                            <img src="assets/img/icon/category-1.svg" alt="Bizmaster" />
+                                            <img src="assets/img/icon/category-1.svg" alt="Gohub" />
                                         </Link>
                                     </li>
                                     <li>
                                         <Link to="/blog">
                                             Digital Transformation
-                                            <img src="assets/img/icon/category-2.svg" alt="Bizmaster" />
+                                            <img src="assets/img/icon/category-2.svg" alt="Gohub" />
                                         </Link>
                                     </li>
                                     <li>
                                         <Link to="/blog">
                                             Advisors Growth Catalyst
-                                            <img src="assets/img/icon/category-3.svg" alt="Bizmaster" />
+                                            <img src="assets/img/icon/category-3.svg" alt="Gohub" />
                                         </Link>
                                     </li>
                                     <li>
                                         <Link to="/blog">
                                             Financial Advisory Partners
-                                            <img src="assets/img/icon/category-4.svg" alt="Bizmaster" />
+                                            <img src="assets/img/icon/category-4.svg" alt="Gohub" />
                                         </Link>
                                     </li>
                                 </ul>
@@ -190,7 +190,7 @@ const BlogAreaAll = () => {
                                     <div className="recent-post">
                                         <div className="recent-post-meta">
                                             <Link to="/blog">
-                                                <img src="assets/img/icon/calender.svg" alt="Bizmaster" />
+                                                <img src="assets/img/icon/calender.svg" alt="Gohub" />
                                                 Jan 10, 2024
                                             </Link>
                                         </div>
@@ -205,7 +205,7 @@ const BlogAreaAll = () => {
                                     <div className="recent-post">
                                         <div className="recent-post-meta">
                                             <Link to="/blog">
-                                                <img src="assets/img/icon/calender.svg" alt="Bizmaster" />
+                                                <img src="assets/img/icon/calender.svg" alt="Gohub" />
                                                 Jan 10, 2024
                                             </Link>
                                         </div>
@@ -220,7 +220,7 @@ const BlogAreaAll = () => {
                                     <div className="recent-post">
                                         <div className="recent-post-meta">
                                             <Link to="/blog">
-                                                <img src="assets/img/icon/calender.svg" alt="Bizmaster" />
+                                                <img src="assets/img/icon/calender.svg" alt="Gohub" />
                                                 Jan 10, 2024
                                             </Link>
                                         </div>

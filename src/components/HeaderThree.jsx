@@ -115,22 +115,22 @@ const HeaderThree = () => {
           <ul className="side-instagram list-wrap">
             <li>
               <Link to="#">
-                <img src="assets/img/gallery/1.jpg" alt="Bizmaster" />
+                <img src="assets/img/gallery/1.jpg" alt="Gohub" />
               </Link>
             </li>
             <li>
               <Link to="#">
-                <img src="assets/img/gallery/2.jpg" alt="Bizmaster" />
+                <img src="assets/img/gallery/2.jpg" alt="Gohub" />
               </Link>
             </li>
             <li>
               <Link to="#">
-                <img src="assets/img/gallery/3.jpg" alt="Bizmaster" />
+                <img src="assets/img/gallery/3.jpg" alt="Gohub" />
               </Link>
             </li>
             <li>
               <Link to="#">
-                <img src="assets/img/gallery/4.jpg" alt="Bizmaster" />
+                <img src="assets/img/gallery/4.jpg" alt="Gohub" />
               </Link>
             </li>
           </ul>
@@ -154,7 +154,7 @@ const HeaderThree = () => {
         <div className="mobile-menu-area">
           <div className="mobile-logo">
             <Link to="/">
-              <img src="assets/img/logo.svg" alt="Bizmaster" />
+              <img src="assets/img/logo.svg" alt="Gohub" />
             </Link>
             <button className="menu-toggle" onClick={mobileMenu}>
               <i className="fa fa-times" />

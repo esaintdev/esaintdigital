@@ -25,7 +25,7 @@ const HeroOne = () => {
               </p>
               <div className="btn-group">
                 <Link to="/about" className="global-btn">
-                  Learn More <img src="assets/img/icon/right-icon.svg" alt="Bizmaster" />
+                  Learn More <img src="assets/img/icon/right-icon.svg" alt="Gohub" />
                 </Link>
                 <Link to="/service" className="global-btn style-border">
                   Our Services
