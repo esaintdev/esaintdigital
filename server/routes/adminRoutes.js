@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const adminAuth = require('../middleware/adminAuth');
+const upload = require('../middleware/upload');
 const Product = require('../models/Product');
 
 // Admin dashboard
