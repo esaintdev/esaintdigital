@@ -18,7 +18,10 @@ router.get('/:id', getUser, (req, res) => {
 });
 
 // Create a new user
-router.post('/', async (req, res) => {
+router.post('/register', async (req, res) => {
+  console.log('Received registration request');
+  console.log('Request body:', req.body);
+  
   const user = new User({
     name: req.body.name,
     email: req.body.email,
@@ -27,9 +30,14 @@ router.post('/', async (req, res) => {
   });
 
   try {
+    console.log('Saving user:', user);
     const newUser = await user.save();
-    res.status(201).json(newUser);
+    console.log('User saved successfully:', newUser);
+    // Remove sensitive information from the response
+    const { password, ...userWithoutPassword } = newUser.toObject();
+    res.status(201).json(userWithoutPassword);
   } catch (err) {
+    console.error('Error saving user:', err);
     res.status(400).json({ message: err.message });
   }
 });

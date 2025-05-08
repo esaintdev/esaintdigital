@@ -5,6 +5,7 @@ const cors = require('cors');
 const userRoutes = require('./routes/userRoutes');
 const productRoutes = require('./routes/productRoutes');
 const productAdditionalRoutes = require('./routes/productAdditionalRoutes');
+const adminRoutes = require('./routes/adminRoutes');
 
 const app = express();
 
@@ -30,6 +31,7 @@ mongoose.connect(MONGODB_URI, {
 app.use('/api/users', userRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/products/additional', productAdditionalRoutes);
+app.use('/api/admin', adminRoutes);
 
 // Error handling middleware
 app.use((err, req, res, next) => {

@@ -6,12 +6,10 @@ import HeroFive from "../components/HeroFive";
 import ServiceFive from "../components/ServiceFive";
 import ClientThree from "../components/ClientThree";
 import AboutFive from "../components/AboutFive";
-import ProcessTwo from "../components/ProcessTwo";
 import TestimonialFour from "../components/TestimonialFour";
 import PricingTwo from "../components/PricingTwo";
 import CTAThree from "../components/CTAThree";
 import TeamFour from "../components/TeamFour";
-import FaqThree from "../components/FaqThree";
 import FooterFive from "../components/FooterFive";
 
 
@@ -45,9 +43,6 @@ const HomeFive = () => {
 
       {/* AboutFive */}
       <AboutFive />
-
-      {/* ProcessTwo */}
-      {/* <ProcessTwo /> */}
 
       {/* TestimonialFour */}
       {/* <TestimonialFour /> */}
