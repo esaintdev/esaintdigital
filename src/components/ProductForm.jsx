@@ -50,7 +50,7 @@ const ProductForm = () => {
 
     try {
       if (id) {
-        await axios.patch(`http://localhost:5000/api/products/${id}`, formDataToSend, {
+        await axios.patch(`${process.env.REACT_APP_API_URL}/api/products/${id}`, formDataToSend, {
           headers: {
             'Content-Type': 'multipart/form-data'
           }
@@ -58,7 +58,7 @@ const ProductForm = () => {
         setSuccess('Product updated successfully!');
         navigate('/products');
       } else {
-        const response = await axios.post('http://localhost:5000/api/products', formDataToSend, {
+        const response = await axios.post('${process.env.REACT_APP_API_URL}/api/products', formDataToSend, {
           headers: {
             'Content-Type': 'multipart/form-data'
           }

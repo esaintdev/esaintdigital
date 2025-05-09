@@ -13,7 +13,7 @@ const PortfolioAll = () => {
 
   const fetchProducts = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/api/products');
+      const response = await axios.get('${process.env.REACT_APP_API_URL}/api/products');
       setProducts(response.data);
       setError('');
     } catch (err) {
@@ -26,7 +26,7 @@ const PortfolioAll = () => {
   const handleDelete = async (id) => {
     if (window.confirm('Are you sure you want to delete this product?')) {
       try {
-        await axios.delete(`http://localhost:5000/api/products/${id}`);
+        await axios.delete(`${process.env.REACT_APP_API_URL}/api/products/${id}`);
         fetchProducts(); // Refresh product list after deletion
       } catch (err) {
         console.error('Delete failed:', err);
@@ -73,7 +73,7 @@ const PortfolioAll = () => {
               <div className="portfolio-card">
                 <div className="portfolio-card-thumb">
                   <img 
-                    src={`http://localhost:5000/${product.picture || 'assets/img/portfolio/1-9.png'}`}
+                    src={`${process.env.REACT_APP_API_URL}/${product.picture || 'assets/img/portfolio/1-9.png'}`}
                     alt={product.title}
                     onError={(e) => {
                       e.target.src = 'assets/img/portfolio/1-9.png';

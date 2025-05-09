@@ -21,7 +21,7 @@ const Products = () => {
     }
 
     try {
-      const response = await axios.delete(`http://localhost:5000/api/products/${id}`);
+      const response = await axios.delete(`${process.env.REACT_APP_API_URL}/api/products/${id}`);
       if (response.status === 200) {
         fetchProducts();
         setError('');
@@ -35,7 +35,7 @@ const Products = () => {
   
   const fetchProducts = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/api/products');
+      const response = await axios.get('${process.env.REACT_APP_API_URL}/api/products');
       setProducts(response.data);
       setError('');
     } catch (err) {
@@ -96,7 +96,7 @@ const Products = () => {
                 <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{product.client}</td>
                 <td className="px-6 py-4 whitespace-nowrap">
                   <img
-                    src={`http://localhost:5000/uploads/${product.picture.split('/').pop()}`}
+                    src={`${process.env.REACT_APP_API_URL}/uploads/${product.picture.split('/').pop()}`}
                     alt={product.name}
                     className="h-16 w-16 object-cover rounded"
                   />

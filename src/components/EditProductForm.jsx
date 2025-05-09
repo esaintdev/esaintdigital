@@ -26,7 +26,7 @@ const EditProductForm = () => {
   const fetchProduct = async () => {
     try {
       const response = await axios.get(
-        `http://localhost:5000/api/products/${id}`
+        `${process.env.REACT_APP_API_URL}/api/products/${id}`
       );
       setProduct(response.data);
       setError("");
@@ -73,7 +73,7 @@ const EditProductForm = () => {
     }
 
     try {
-      const response = await axios.patch(`http://localhost:5000/api/products/${id}`, formData, {
+      const response = await axios.patch(`${process.env.REACT_APP_API_URL}/api/products/${id}`, formData, {
         headers: {
           "Content-Type": "multipart/form-data",
         },
@@ -233,7 +233,7 @@ const EditProductForm = () => {
               <img
                 src={
                   typeof product.picture === "string"
-                    ? `http://localhost:5000/uploads/${product.picture
+                    ? `${process.env.REACT_APP_API_URL}/uploads/${product.picture
                         .split("/")
                         .pop()}`
                     : URL.createObjectURL(product.picture)
